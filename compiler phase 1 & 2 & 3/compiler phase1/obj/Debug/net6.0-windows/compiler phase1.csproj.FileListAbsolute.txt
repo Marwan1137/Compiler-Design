@@ -1,0 +1,36 @@
+D:\MSA\Compiler Design\compiler phase1\compiler phase1\bin\Debug\net6.0-windows\compiler phase1.exe
+D:\MSA\Compiler Design\compiler phase1\compiler phase1\bin\Debug\net6.0-windows\compiler phase1.deps.json
+D:\MSA\Compiler Design\compiler phase1\compiler phase1\bin\Debug\net6.0-windows\compiler phase1.runtimeconfig.json
+D:\MSA\Compiler Design\compiler phase1\compiler phase1\bin\Debug\net6.0-windows\compiler phase1.dll
+D:\MSA\Compiler Design\compiler phase1\compiler phase1\bin\Debug\net6.0-windows\compiler phase1.pdb
+D:\MSA\Compiler Design\compiler phase1\compiler phase1\obj\Debug\net6.0-windows\compiler phase1.csproj.AssemblyReference.cache
+D:\MSA\Compiler Design\compiler phase1\compiler phase1\obj\Debug\net6.0-windows\compiler_phase1.Form1.resources
+D:\MSA\Compiler Design\compiler phase1\compiler phase1\obj\Debug\net6.0-windows\compiler phase1.csproj.GenerateResource.cache
+D:\MSA\Compiler Design\compiler phase1\compiler phase1\obj\Debug\net6.0-windows\compiler phase1.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSA\Compiler Design\compiler phase1\compiler phase1\obj\Debug\net6.0-windows\compiler phase1.AssemblyInfoInputs.cache
+D:\MSA\Compiler Design\compiler phase1\compiler phase1\obj\Debug\net6.0-windows\compiler phase1.AssemblyInfo.cs
+D:\MSA\Compiler Design\compiler phase1\compiler phase1\obj\Debug\net6.0-windows\compiler phase1.csproj.CoreCompileInputs.cache
+D:\MSA\Compiler Design\compiler phase1\compiler phase1\obj\Debug\net6.0-windows\compiler phase1.dll
+D:\MSA\Compiler Design\compiler phase1\compiler phase1\obj\Debug\net6.0-windows\refint\compiler phase1.dll
+D:\MSA\Compiler Design\compiler phase1\compiler phase1\obj\Debug\net6.0-windows\compiler phase1.pdb
+D:\MSA\Compiler Design\compiler phase1\compiler phase1\obj\Debug\net6.0-windows\compiler phase1.genruntimeconfig.cache
+D:\MSA\Compiler Design\compiler phase1\compiler phase1\obj\Debug\net6.0-windows\ref\compiler phase1.dll
+D:\MSA\Compiler Design\compiler phase1\compiler phase1\obj\Debug\net6.0-windows\compiler_phase1.Form2.resources
+D:\MSA\Compiler Design\compiler phase 1 & 2 & 3\compiler phase1\bin\Debug\net6.0-windows\compiler phase1.exe
+D:\MSA\Compiler Design\compiler phase 1 & 2 & 3\compiler phase1\bin\Debug\net6.0-windows\compiler phase1.deps.json
+D:\MSA\Compiler Design\compiler phase 1 & 2 & 3\compiler phase1\bin\Debug\net6.0-windows\compiler phase1.runtimeconfig.json
+D:\MSA\Compiler Design\compiler phase 1 & 2 & 3\compiler phase1\bin\Debug\net6.0-windows\compiler phase1.dll
+D:\MSA\Compiler Design\compiler phase 1 & 2 & 3\compiler phase1\bin\Debug\net6.0-windows\compiler phase1.pdb
+D:\MSA\Compiler Design\compiler phase 1 & 2 & 3\compiler phase1\obj\Debug\net6.0-windows\compiler phase1.csproj.AssemblyReference.cache
+D:\MSA\Compiler Design\compiler phase 1 & 2 & 3\compiler phase1\obj\Debug\net6.0-windows\compiler_phase1.Form1.resources
+D:\MSA\Compiler Design\compiler phase 1 & 2 & 3\compiler phase1\obj\Debug\net6.0-windows\compiler_phase1.Form2.resources
+D:\MSA\Compiler Design\compiler phase 1 & 2 & 3\compiler phase1\obj\Debug\net6.0-windows\compiler phase1.csproj.GenerateResource.cache
+D:\MSA\Compiler Design\compiler phase 1 & 2 & 3\compiler phase1\obj\Debug\net6.0-windows\compiler phase1.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSA\Compiler Design\compiler phase 1 & 2 & 3\compiler phase1\obj\Debug\net6.0-windows\compiler phase1.AssemblyInfoInputs.cache
+D:\MSA\Compiler Design\compiler phase 1 & 2 & 3\compiler phase1\obj\Debug\net6.0-windows\compiler phase1.AssemblyInfo.cs
+D:\MSA\Compiler Design\compiler phase 1 & 2 & 3\compiler phase1\obj\Debug\net6.0-windows\compiler phase1.csproj.CoreCompileInputs.cache
+D:\MSA\Compiler Design\compiler phase 1 & 2 & 3\compiler phase1\obj\Debug\net6.0-windows\compiler phase1.dll
+D:\MSA\Compiler Design\compiler phase 1 & 2 & 3\compiler phase1\obj\Debug\net6.0-windows\refint\compiler phase1.dll
+D:\MSA\Compiler Design\compiler phase 1 & 2 & 3\compiler phase1\obj\Debug\net6.0-windows\compiler phase1.pdb
+D:\MSA\Compiler Design\compiler phase 1 & 2 & 3\compiler phase1\obj\Debug\net6.0-windows\compiler phase1.genruntimeconfig.cache
+D:\MSA\Compiler Design\compiler phase 1 & 2 & 3\compiler phase1\obj\Debug\net6.0-windows\ref\compiler phase1.dll
